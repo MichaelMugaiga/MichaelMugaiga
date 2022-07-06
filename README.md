@@ -20,4 +20,4 @@
   
 ### my List
 
-- I am very motivate to growth my skills in IT field
+- I am very motivated to grow my skills in IT field

@@ -18,3 +18,6 @@
 - 👯 I’m looking to collaborate on [GitHub]().
 - 📫 How to reach me: [Linkedin]()
   
+### my List
+
+- I am very motivate to growth my skills in IT field

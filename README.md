@@ -16,7 +16,8 @@
 
 - 🌱 I’m currently learning  @ *Hack Your Future* Belgium.
 - 👯 I’m looking to collaborate on [GitHub]().
-- 📫 How to reach me: [Linkedin]()
+- 📫 How to reach me: [https://www.linkedin.com/in/michaelmugaiga/]()
+- 
   
 ### my List
 

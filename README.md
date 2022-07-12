@@ -1,4 +1,4 @@
-- Hi I'm Michael👋
+- Hi **I'm Michael👋**
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, js @ *Hack Your Future* Belgium.
 - 👯 I’m looking to collaborate on github[https://github.com/MichaelMugaiga]().

@@ -1,8 +1,8 @@
 - Hi **I'm Michael👋**
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, js @ *Hack Your Future* Belgium.
-- 👯 I’m looking to collaborate on github[https://github.com/MichaelMugaiga]().
-- 📫 How to reach me: [https://www.linkedin.com/in/michaelmugaiga/]()
+- 👯 I’m looking to collaborate on[ github](https://github.com/MichaelMugaiga).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michaelmugaiga/)
 
   ## My 9 months bootcamp training agenda
 ![Agile Development](/imgaes/agile.png)

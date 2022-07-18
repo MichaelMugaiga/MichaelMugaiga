@@ -8,7 +8,7 @@ People around me describe me as positive, perservere, hard working and easy goin
 - 🌱 I’m currently following programing course at *Hack Your Future* Belgium as a web developer.
 - 👯 I’m looking to collaborate on [github](https://github.com/MichaelMugaiga).
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/michaelmugaiga/)
-- I have experience in troubleshooting, maintaining and configartion of below OS as well as Oracle and HP Hardware installation and configuration.
+- I have experience in troubleshooting, maintaining and configuration of below OS as well as Oracle and HP server Hardware installation and configuration.
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue)

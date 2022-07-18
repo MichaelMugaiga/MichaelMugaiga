@@ -1,8 +1,9 @@
-- Hi **I'm Michael👋**
+# Hi **I'm Michael👋**
+[![trophy](https://github-profile-trophy.vercel.app/?username=MichaelMugaiga&theme=onedark)](https://github.com/MichaelMugaiga/github-profile-trophy)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html, css, js @ *Hack Your Future* Belgium.
-- 👯 I’m looking to collaborate on[ github](https://github.com/MichaelMugaiga).
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michaelmugaiga/)
+- 🌱 I’m currently learning html css js at ##Hack Your Future## Belgium.
+- 👯 I’m looking to collaborate on [github](https://github.com/MichaelMugaiga).
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/michaelmugaiga/)
 
   ## My 9 months bootcamp training agenda
 ![Agile Development](/imgaes/agile.png)

@@ -1,9 +1,12 @@
-# Hi **I'm Michael👋**
+# Hi there, **I'm Michael👋**
+
+People around me describe me as positive, perservere, hard working and easy going. I am social, patient and always willing to learn and help others.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MichaelMugaiga&theme=onedark)](https://github.com/MichaelMugaiga/github-profile-trophy)
 
 ---
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html css js at ##Hack Your Future## Belgium.
+- 🌱 I’m currently learning html css js at *Hack Your Future* Belgium.
 - 👯 I’m looking to collaborate on [github](https://github.com/MichaelMugaiga).
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/michaelmugaiga/)
 
@@ -19,15 +22,19 @@
 ![Component Based Design /React](/imgaes/science.png)
 
 ---
+I have experience in the following operating systems.
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue)
 ![MacOS](https://img.shields.io/badge/apple-fff?style=for-the-badge&logo=apple&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white)
-![kalilinux](https://img.shields.io/badge/kalilinux-blue?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![android](https://img.shields.io/badge/android-white?style=for-the-badge&logo=android&logoColor=green)
 
----
-- I am very motivated to grow my skills in IT field
+I also have experience with Oracle and HP server systems.
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
----
 ![Michael's GitHub status](https://github-readme-stats.vercel.app/api?username=MichaelMugaiga&theme=onedark&show_icons=true)
+
+![Michael's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelMugaiga&theme=vue)
+
+- I am very motivated to grow my skills in IT field

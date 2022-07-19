@@ -2,7 +2,7 @@
 
 People around me describe me as positive, perservere, hard working and easy going. I am social, patient and always willing to learn and help others.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MichaelMugaiga&theme=onedark)](https://github.com/MichaelMugaiga/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=MichaelMugaiga&theme=onedark)](https://github.com/MichaelMugaiga/github-profile-trophy)
 
 ---
 - 🌱 I’m currently following programing course at *Hack Your Future* Belgium as a web developer.

@@ -5,7 +5,7 @@ People around me describe me as positive, perservere, hard working and easy goin
 [![trophy](https://github-profile-trophy.vercel.app/?username=MichaelMugaiga&theme=onedark)](https://github.com/MichaelMugaiga/github-profile-trophy)
 
 ---
-- 🌱 I’m currently following programing course at *Hack Your Future* Belgium as a web developer.
+- 🌱 I work as IT support engineer, with a passion for coding.
 - 👯 I’m looking to collaborate on [github](https://github.com/MichaelMugaiga).
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/michaelmugaiga/)
 - I have experience in troubleshooting, maintaining and configuration of below OS as well as Oracle and HP server Hardware installation and configuration.
@@ -17,7 +17,7 @@ People around me describe me as positive, perservere, hard working and easy goin
     ![android](https://img.shields.io/badge/android-white?style=for-the-badge&logo=android&logoColor=green)
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ---
-  ## 9 months programming training at HackYourFuture
+  ## Experienced in
 ![Agile Development](/imgaes/agile.png)
 ![UX/UI DESIGN](/imgaes/ux.png)
 ![JavaScript](/imgaes/javascript.png)
@@ -32,4 +32,4 @@ People around me describe me as positive, perservere, hard working and easy goin
 
 ![Michael's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelMugaiga&theme=vue)
 
-- I am very motivated to grow my skills in IT field
+- Always motivated to grow my skills in IT field
